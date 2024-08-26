@@ -5,7 +5,7 @@ Activity 1: Setting up the repository
 
 * Download a git client, e.g., GitHub Desktop
 * Fork the allardjun/MCSBBootcamp2024 repository
-* Clone the forked repository to your local computer
+* Clone the forked repository to your local computer 
 
 Activity 2: Getting someone else's change
 
